@@ -1,1 +1,1 @@
-![READ](img/fond_per_animation.gif)
+![READ](img/fond_per2_animation.gif)
