@@ -1,4 +1,17 @@
 ![READ](img/fond_per2_animation.gif)  
-# ♠️♣️ Carta:
-<a href="https://app.daily.dev/cristianolivera1"><img src="https://api.daily.dev/devcards/v2/1ytZxqzBa671YUGfHTkKo.png?type=wide&r=yaq" width="652" alt="CristianOlivera1's Dev Card"/></a>
+# ♠️♣️ Xnak3:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
