@@ -1,5 +1,4 @@
 ![READ](img/fond_per2_animation.gif)  
-# ♠️♣️ Xnak3:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
