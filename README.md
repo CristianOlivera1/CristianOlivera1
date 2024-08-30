@@ -1,4 +1,4 @@
-![READ](img/fond_per2_animation.gif)  
+![READ](img/fond_portGH.png)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
