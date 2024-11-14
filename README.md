@@ -1,4 +1,4 @@
-![fonGitPort](https://github.com/user-attachments/assets/2a2a4511-c7ba-42c1-8de3-0667be52243a)
+![fondo-daily](https://github.com/user-attachments/assets/eec9576d-c003-4823-9de7-5d80dfa5ba1b)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
