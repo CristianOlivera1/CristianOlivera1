@@ -1,4 +1,4 @@
-![fondo-daily](https://github.com/user-attachments/assets/eec9576d-c003-4823-9de7-5d80dfa5ba1b)
+![fondo-daily](https://github.com/CristianOlivera1/Resources-dev/blob/main/logoCO/fondos/SVGfondo-daily-porfileReadme2.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
