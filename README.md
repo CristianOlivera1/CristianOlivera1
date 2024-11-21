@@ -1,4 +1,6 @@
-![fondo-daily](https://github.com/CristianOlivera1/Resources-dev/blob/main/logoCO/fondos/SVGfondo-daily-porfileReadme2.svg)
+<div style="border-radius:10px; border:1px solid #3D444D" >
+  <img src="https://github.com/CristianOlivera1/Resources-dev/blob/main/logoCO/fondos/fondo-daily-porfileReadme.png" style="border-radius:20px;" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
