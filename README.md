@@ -5,7 +5,7 @@
 <div align="center" >
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cristianolivera1.cristianolivera1&"/>
   <img src="https://img.shields.io/github/last-commit/cristianolivera1/Cms-tienda-ropa?color=brightgreen"/>
-  <img src="https://img.shields.io/badge/Repositories-14-facc15"/>
+  <img src="https://img.shields.io/badge/Repositories-16-facc15"/>
 </div>
 
 <picture>
