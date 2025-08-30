@@ -1,6 +1,5 @@
 <div>
-  <img width="810" height="356" alt="Monochrome - 9 (3)" src="https://github.com/user-attachments/assets/e4466a5a-d1cc-4516-8305-7b628523ea9a" />
-
+<img width="908" height="400" alt="Monochrome - 9 (1)" src="https://github.com/user-attachments/assets/61aa34e2-eb57-4b0f-8415-165983819f9e" />
 </div>
 
 <div align="center" >
