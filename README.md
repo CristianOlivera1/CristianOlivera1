@@ -1,5 +1,6 @@
-<div style="border-radius:10px; border:1px solid #3D444D" >
-  <img width="810" height="356" alt="Monochrome - 9 (1)" src="https://github.com/user-attachments/assets/a5d09aed-afee-40cf-899b-6d83dba3aa1e" />
+<div>
+  <img width="810" height="356" alt="Monochrome - 9 (3)" src="https://github.com/user-attachments/assets/e4466a5a-d1cc-4516-8305-7b628523ea9a" />
+
 </div>
 
 <div align="center" >
