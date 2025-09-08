@@ -2,9 +2,9 @@
 <img width="1004" height="442" alt="Monochrome - 9 (3)" src="https://github.com/user-attachments/assets/27c8e984-d481-405a-a61d-aef2c9cd1af8" />
 </div>
 
-<div align="center" >
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cristianolivera1.cristianolivera1&"/>
-  <img src="https://img.shields.io/github/last-commit/cristianolivera1/Unamba-forum-frontend?color=brightgreen"/>
+  <img src="https://img.shields.io/github/last-commit/cristianolivera1/CristianOlivera1.github.io?color=brightgreen"/>
   <img src="https://img.shields.io/badge/Repositories-23-facc15"/>
 </div>
 
