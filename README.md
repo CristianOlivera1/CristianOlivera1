@@ -1,7 +1,6 @@
 <div>
-  <img alt="banner-co" src="https://raw.githubusercontent.com/CristianOlivera1/Resources-dev/d130b9be3f0b37f68fa922c36fc2d618a5302014/any/banner-co.png" />
+  <img width="1077" height="450" alt="Frame 1116606749 (1)" src="https://github.com/user-attachments/assets/23b70150-56c4-4ecb-8a62-f9ac558e2118" />
 </div>
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cristianolivera1.cristianolivera1&"/>
