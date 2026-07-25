@@ -1,5 +1,5 @@
 <div>
-  <img width="1077" height="450" alt="Frame 1116606749 (1)" src="https://github.com/user-attachments/assets/23b70150-56c4-4ecb-8a62-f9ac558e2118" />
+  <img width="1077" height="427" alt="Frame 1116606749 (1)" src="https://github.com/user-attachments/assets/8af72c04-baca-414b-9078-1f8f6ffd627f" />
 </div>
 
 <div align="center">
